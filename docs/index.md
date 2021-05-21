@@ -10,7 +10,7 @@ Mit SustainableInvest haben Sie die Möglichkeit Ihre Finanzplanung individuell 
 
 [photo1]:https://images.pexels.com/photos/2253879/pexels-photo-2253879.jpeg?cs=srgb&dl=pexels-emma-bauso-2253879.jpg&fm=jpg
  
- ![photo][photo2]"Mir ist es wichtig im Alter finanziell abgesichert und unabhängig zu sein. Bei SustainableInvest wird meine Finanzplaung transparent und nach meinen Anforderungen erstellt."
+ ![photo][photo2]"Mir ist es wichtig im Alter finanziell abgesichert und unabhängig zu sein. Bei SustainableInvest wird meine Finanzplanug transparent und nach meinen Anforderungen erstellt."
  
  [photo2]:https://images.pexels.com/photos/4936456/pexels-photo-4936456.jpeg?cs=srgb&dl=pexels-cottonbro-4936456.jpg&fm=jpg
 
