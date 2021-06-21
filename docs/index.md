@@ -4,8 +4,8 @@
 
 Mit SustainableInvest haben Sie die Möglichkeit Ihre Finanzplanung individuell an Ihre Vorstellung von Nachhaltigkeit anzupassen
 
-### Fragebogen hier:
-[Fragebogen](https://dhbw-de.github.io/SustainableInvest/questions.html)
+### Sie sind sich unsicher welches Risiko Sie beim Investieren eingehen wollen und welche Unternehmen Ihre Werte vertreten?
+[Fragebogen zur individuellen Nachhaltigkeitsanalyse und zum Risikoprofil](https://dhbw-de.github.io/SustainableInvest/questions.html)
 
 
 
